@@ -1,2 +1,2 @@
-# AstroNow
-AstroNow is a website that will allow user to input location and date to see the current sky map and visible objects!
+# FindGraphFeatures
+Image detection software that will find user-specified features in graphs once the user provides examples. Great for combing through large data sets!
