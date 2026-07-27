@@ -1,2 +1,2 @@
-# AstroNow
-AstroNow is a website that will allow user to input location and date to see the current sky map and visible objects!
+# Spectrometer Wiki
+Description of three different types of spectrometers. How to build, code, and troubleshoot spectrometers.
