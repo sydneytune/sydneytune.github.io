@@ -1,0 +1,1 @@
+This page will give a background on spectroscopy and Kirchoff's Laws.
