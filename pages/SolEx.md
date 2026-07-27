@@ -1,0 +1,1 @@
+This page is for the Sol'Ex spectrometer kit. This spectrometer was created to be attached to a telescope to take solar spectrograms. I used it without a telescope and powered it with a Raspberry Pi 4 to launch on a high-altitude balloon to collect data.
