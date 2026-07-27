@@ -1,2 +1,2 @@
-# FindGraphFeatures
-Image detection software that will find user-specified features in graphs once the user provides examples. Great for combing through large data sets!
+# Spectrometer Wiki
+Description of three different types of spectrometers. How to build, code, and troubleshoot spectrometers.
