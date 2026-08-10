@@ -2,12 +2,12 @@ This is a general spectrometer built on a peg board to learn the science behind 
 
 I built this spectrometer at UC-Berkeley's AstroTech summer school in 2026. I worked with Anaelle Roc, Parimala Rajesh, Grace Nasrallah, and Colby Moore.  
 
-####Components:  
+#### Components:  
 - Thorlabs lenses  
 - Thorlabs posts/holders  
 - Thorlabs breadboards/screws  
 - ZWO ASI 585MM Pro  
 
-####Cost:
+#### Cost:
 The price of this instrument would depend on how many lenses and posts you used.  
 The camera costs around $600

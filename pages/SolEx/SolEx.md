@@ -2,13 +2,13 @@ This page is for the Sol'Ex spectrometer kit. This spectrometer was created to b
 
 I did this project with Aneesa Diya Pathiyaparambath, SeongKyung Jung, and Janak Paudel at the University of Iowa's Edge of Space program in 2025.  
 
-####Components:
+#### Components:
 - Sol'Ex Spectrometer Kit (Comes with optical components and 3D designs)  
 - ZWO ASI 585mm camera  
 - 3D printed parts (Note: It is recommended to use dark filament in order to prevent light leakage)  
   
 
-####Cost:  
+#### Cost:  
 - Kit: ~$400  
 - Camera: ~$450  
 - 3D printed parts: ~$15  

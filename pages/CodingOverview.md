@@ -1,6 +1,6 @@
 The code I used on each of these spectrometers can be found on their pages. This page is an overview of what all the code needs to accomplish. The way that you execute it will vary based on your detector and computer (Raspberry Pi/Arduino/etc).  
 
-###Data Collection Code  
+### Data Collection Code  
 The main things that a data collection code needs to do are:  
 - Initialize/detect the camera  
 - Check the storage on your device so it stops the code before it starts overriding data  
@@ -10,7 +10,7 @@ The main things that a data collection code needs to do are:
 - Immediately start running when powered  
 - Reboot if camera connection lost
   
-###Data Analysis Code  
+### Data Analysis Code  
 The main steps in spectra analysis are:  
 1. Cut a strip out of the spectrum to analyze  
 2. Index the data into pixel position on the x axis  

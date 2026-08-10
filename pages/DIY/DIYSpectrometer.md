@@ -4,7 +4,7 @@ I built this spectrometer in the University of Iowa's "The Iowa Idea at Great He
 
 All of the components for this instrument were ordered from Edmund Optics and the 3D printed casing was from the above paper.  
 
-####Components:  
+#### Components:  
 - Front lens f/4 Focal Length (FL) 16mm (#83-107)
 - M12 lock nut for μ-video lenses (#64-102)  
 - Precision air slit 25μm x 3mm (#38-558)  
@@ -17,4 +17,4 @@ All of the components for this instrument were ordered from Edmund Optics and th
 - S-Mount brass spacer rings (#68-228)  
 - Camera: AV Alvium 1800 U-501m S-Mount (#19-551)  
 
-####Cost: ~$930 with University discount (check with your school about getting this discount!)
+#### Cost: ~$930 with University discount (check with your school about getting this discount!)
