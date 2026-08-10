@@ -9,7 +9,7 @@ Number 1 can be observed with our eyes, we can see the visible wavelenths that o
 From these different spectra, we can identify what elements are present in an object. Each element has its own unique "fingerprint" so we can line up the emission/absorption lines to find out what it is.  
   
 
-Note: When observing fast-moving objects, beware of blueshift and redshift! These will shift the wavelength of the lines left or right, depending on which way it is moving.  
+*Note: When observing fast-moving objects, beware of blueshift and redshift! These will shift the wavelength of the lines left or right, depending on which way it is moving.*  
   
 Spectrometers make it easier for us to see spectra. They use a diffraction grating to split the light into its constituent wavelengths and spread out the spectra. 
   
