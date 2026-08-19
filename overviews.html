@@ -1,9 +1,42 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Overviews | Spectrometer Projects</title><link rel="stylesheet" href="styles.css"></head><body><nav class="site-nav"><a class="brand" href="index.html">Spectrometer Projects</a><div class="links"><a href="diy.html">DIY</a><a href="freeform.html">Freeform</a><a href="overviews.html">Overviews</a><a href="solex.html">Sol’Ex</a></div></nav><main><header class="hero"><div class="eyebrow">Spectrometer Projects</div><h1>Overviews</h1></header><article><div class="gallery"><img class="wide" src="assets/overviews/kirchoff.png" alt="kirchoff" loading="lazy"></div><section class="section"><h2>Science Overview</h2><p>Spectroscopy has three different types of  spectra. Kirchhoff's Laws state that:</p>
-<ol><li>A luminous solid, liquid, or dense gas emits light of all wavelengths  </li><li>A low density, hot gas seen against a cooler background emits an "emission line" spectrum  </li><li>A low density, cool gas in front of a hotter source of a continuous spectrum creates an "absorption line" spectrum  </li></ol>
-<p>Number 1 can be observed with our eyes, we can see the visible wavelenths that objects are emitting. Number 2 can describe spectroscopic views of gas clouds in the midst of space. Number 3 can describe us looking at the sun through Earth's atmosphere with a spectrometer. From these different spectra, we can identify what elements are present in an object. Each element has its own unique "fingerprint" so we can line up the emission/absorption lines to find out what it is.</p>
-<p><em>Note: When observing fast-moving objects, beware of blueshift and redshift! These will shift the wavelength of the lines left or right, depending on which way it is moving.</em></p>
-<p>Spectrometers make it easier for us to see spectra. They use a diffraction grating to split the light into its constituent wavelengths and spread out the spectra.</p>
-<p>Most spectrometers can have a very simple setup. Light travels through a slit, goes through a collimating lens (to straighten the light), hits a grating which separates the wavelengths, and lastly goes through a focusing lens to be focused on the detector. Sometimes an initial lens is added at the beginning to protect the components inside. Industrial-scale spectrometers may have things like filter wheels (to select a certain wavelength range to study), diffraction grating wheels (to achieve different resolutions), or other high-tech improvements, but they all follow the same basic layout.</p>
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Overviews | Spectrometer Projects</title>
+        <link rel="stylesheet" href="styles.css">
+    </head>
+    <body>
+        <nav class="site-nav">
+            <a class="brand" href="index.html">Spectrometer Projects</a>
+            <div class="links">
+                <a href="diy.html">DIY</a>
+                <a href="freeform.html">Freeform</a>
+                <a href="overviews.html">Overviews</a>
+                <a href="solex.html">Sol’Ex</a>
+            </div>
+        </nav>
+        <main>
+            <header class="hero">
+                <div class="eyebrow">Spectrometer Projects</div>
+                <h1>Overviews</h1>
+            </header>
+            <article>
+                <div class="gallery">
+                    <img class="wide" src="assets/overviews/kirchoff.png" alt="kirchoff" loading="lazy">
+                </div>
+                <section class="section">
+                    <h2>Science Overview</h2>
+                    <p>Spectroscopy has three different types of  spectra. Kirchhoff's Laws state that:</p>
+                    <ol>
+                        <li>A luminous solid, liquid, or dense gas emits light of all wavelengths  </li>
+                        <li>A low density, hot gas seen against a cooler background emits an "emission line" spectrum  </li>
+                        <li>A low density, cool gas in front of a hotter source of a continuous spectrum creates an "absorption line" spectrum  </li>
+                    </ol>
+                    <p>Number 1 can be observed with our eyes, we can see the visible wavelenths that objects are emitting. Number 2 can describe spectroscopic views of gas clouds in the midst of space. Number 3 can describe us looking at the sun through Earth's atmosphere with a spectrometer. From these different spectra, we can identify what elements are present in an object. Each element has its own unique "fingerprint" so we can line up the emission/absorption lines to find out what it is.</p>
+                    <p><em>Note: When observing fast-moving objects, beware of blueshift and redshift! These will shift the wavelength of the lines left or right, depending on which way it is moving.</em></p>
+                    <p>Spectrometers make it easier for us to see spectra. They use a diffraction grating to split the light into its constituent wavelengths and spread out the spectra.</p>
+                    <p>Most spectrometers can have a very simple setup. Light travels through a slit, goes through a collimating lens (to straighten the light), hits a grating which separates the wavelengths, and lastly goes through a focusing lens to be focused on the detector. Sometimes an initial lens is added at the beginning to protect the components inside. Industrial-scale spectrometers may have things like filter wheels (to select a certain wavelength range to study), diffraction grating wheels (to achieve different resolutions), or other high-tech improvements, but they all follow the same basic layout.</p>
 <p>Spectrometers will give data in the form of bands of lines. From there we can use coding techniques to convert the pixel index to a wavelength axis and figure out which elements are present with graphs. This can be done with previous calibration data and by making sure a landmark line is within the spectrum shown. H-α is the most commonly used line as it is very bold at 656.28nm.</p>
 <p>Once you learn about spectrometers, you will learn that they are used very frequently in many different fields of science.</p></section><section class="section"><h2>Coding Overview</h2><p>The code I used on each of these spectrometers can be found on their pages. This page is an overview of what all the code needs to accomplish. The way that you execute it will vary based on your detector and computer (Raspberry Pi/Arduino/etc).</p>
 <h3>Data Collection Code</h3>
